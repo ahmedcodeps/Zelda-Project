@@ -1,5 +1,5 @@
 # Zelda-Project
-Zelda project showcase, make in LOVE using Lua with VS Code.
+A small recreation of TLoZ on the NES, make in LOVE using Lua with VS Code.
 
 ## Credits:
 Credits to Mister Mike for all the sprites used.
