@@ -7,6 +7,6 @@ Credits to Sheepolution for guides on collision and game mechanics
 
 ## How to run:
 1. Download LÖVE from https://love2d.org
-2. Use the following command on Bash:
-### Windows: "C:path/to/LOVE/love.exe" project.
+2. Use the following command on Bash (make sure you cd into your project):
+### Windows: "C:path/to/love/ LOVE/love.exe" .
 ### Mac: ~/path/to/love ~/path/to/your-project
