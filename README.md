@@ -1,5 +1,5 @@
 # Zelda-Project
-A small recreation of TLoZ on the NES, made in LOVE using Lua with VS Code.
+A small recreation of TLoZ on the NES, made in LOVE with Lua.
 
 ## Credits:
 Credits to Mister Mike for all the sprites used.
